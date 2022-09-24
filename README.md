@@ -1,2 +1,3 @@
 # MauThietKePhanMem
-TH01: Design Pattern & Compostie
+TH01: Design Pattern & Composite
+
