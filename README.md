@@ -5,4 +5,4 @@ TH03: Proxy (Design Pattern)
 TH04: Apdater (Design Pattern)
 TH05: Abstract Factory (Design Pattern)
 TH06: Template Method
-
+TH07: Prototype & Singleton
