@@ -5,3 +5,4 @@ TH04: Apdater (Design Pattern)
 TH05: Abstract Factory (Design Pattern)
 TH06: Template Method
 TH07: Prototype & Singleton
+TH08: Bridge & Composite
